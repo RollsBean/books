@@ -54,8 +54,8 @@
 
 **英文原版**  
 
-[_The Call of the Wild - Jack London_](https://github.com/RollsBean/books/blob/master/book-en/literature/The%20Call%20of%20the%20Wild%2C%20White%20Fan%20-%20Jack%20London.pdf%20(%20PDFDrive%20).pdf)
-[_The Song of Ice and Fire Series - A Game of Thrones_](https://github.com/RollsBean/books/blob/master/book-en/literature/The%20Song%20of%20Ice%20and%20Fire%20Series_%20A%20Game%20of%20Thrones,%20A%20Clash%20of%20Kings,%20A%20Storm%20of%20Swords,%20and%20A%20Feast%20for%20Crows.pdf)
+[_The Call of the Wild - Jack London_](https://github.com/RollsBean/books/blob/master/book-en/literature/The%20Call%20of%20the%20Wild%2C%20White%20Fan%20-%20Jack%20London.pdf%20(%20PDFDrive%20).pdf)  
+[_The Song of Ice and Fire Series - A Game of Thrones_](https://github.com/RollsBean/books/blob/master/book-en/literature/The%20Song%20of%20Ice%20and%20Fire%20Series_%20A%20Game%20of%20Thrones,%20A%20Clash%20of%20Kings,%20A%20Storm%20of%20Swords,%20and%20A%20Feast%20for%20Crows.pdf)  
 
 **Literature**  
 
