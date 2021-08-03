@@ -30,6 +30,12 @@
 
 [《linux 命令行》](https://github.com/RollsBean/books/blob/master/book/technology/linux/linux%20%E5%91%BD%E4%BB%A4%E8%A1%8C.pdf)  
 
+**network**
+
+[《HTTP权威指南》](https://github.com/RollsBean/books/blob/master/book/technology/network/HTTP%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)  
+[《TCP/IP详解卷1：协议》](https://github.com/RollsBean/books/blob/master/book/technology/network/%E3%80%8ATCP-IP%E8%AF%A6%E8%A7%A3%E5%8D%B71%EF%BC%9A%E5%8D%8F%E8%AE%AE%E3%80%8B.pdf)  
+[《图解HTTP》](https://github.com/RollsBean/books/blob/master/book/technology/network/%E5%9B%BE%E8%A7%A3HTTP.pdf)  
+
 
 #### 英文原版
 
